@@ -50,6 +50,8 @@ a = np.array(eval(input()))
 QR_Decomposition(a)
 ```
 ## Output
+![image](https://github.com/Kathiresan-23013376/QRdecomposition/assets/150008375/08d506de-f227-4d5f-87b7-212f7420f3e5)
+
 ![image](https://github.com/Kathiresan-23013376/QRdecomposition/assets/150008375/ff580123-6e1d-4885-be0d-f3c4d0a1e4e6)
 
 ## Result
